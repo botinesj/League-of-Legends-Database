@@ -9,7 +9,7 @@ In the pursuit of such a task, we:
 - Cleaned the dataset to prepare it for importing into a postgreSQL database
 - Utilized the SQL Data Manipulation Language to explore the dataset  
 
-The results of the investigation can be found in *discussion.pdf*
+The results of the investigation can be found in *discussion.pdf*  
 The relational schema we designed can be found in *schema.ddl*  
 
 The link to the original csv files we used:
